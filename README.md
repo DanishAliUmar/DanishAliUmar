@@ -30,17 +30,20 @@
 ---
 
 ### 🌐 Connect with Me
+<div>
+  
 | Platform  | Profile Link |
 |-----------|--------------|
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="30" height="30"/> [Dev.to](https://dev.to/danishali) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/> [LinkedIn](https://linkedin.com/in/danish-umar) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" width="30" height="30"/> [CodeSandbox](https://codesandbox.com/danishaliumar) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="30" height="30"/> [Hashnode](https://hashnode.com/@danishali) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/> [HackerRank](https://www.hackerrank.com/danishaliumar4) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/> [LeetCode](https://www.leetcode.com/danishumar) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="30" height="30"/> [HackerEarth](https://www.hackerearth.com/@danishaliumar4) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" width="30" height="30"/> [TopCoder](https://www.topcoder.com/members/danishumar) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="30" height="30"/> | [Dev.to](https://dev.to/danishali) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/> | [LinkedIn](https://linkedin.com/in/danish-umar) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" width="30" height="30"/> | [CodeSandbox](https://codesandbox.com/danishaliumar) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="30" height="30"/> | [Hashnode](https://hashnode.com/@danishali) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/> | [HackerRank](https://www.hackerrank.com/danishaliumar4) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/> | [LeetCode](https://www.leetcode.com/danishumar) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="30" height="30"/> | [HackerEarth](https://www.hackerearth.com/@danishaliumar4) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" width="30" height="30"/> | [TopCoder](https://www.topcoder.com/members/danishumar) |
 
+</div>
 ---
 
 Feel free to connect with me and explore more of my projects!
