@@ -50,7 +50,7 @@
 
 ---
 <a href="#" style="">
-<img src="https://profile-images-eta.vercel.app/GitHub-profile-Banner.gif" alt="DanishAliUmar"/>
+<img src="https://profile-images-eta.vercel.app/GitHub-profile-Banner.gif" style="width:100vw" alt="DanishAliUmar"/>
 </a>
 
 ---
