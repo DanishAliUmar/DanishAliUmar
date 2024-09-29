@@ -1,4 +1,4 @@
-<img src="https://profile-images-eta.vercel.app/GitHub-profile-Banner.png" alt="Dev.to"/>
+<img src="https://profile-images-eta.vercel.app/GitHub-profile-Banner.png" alt="DanishAliUmar"/>
 <h1 align="center">Hi 👋, I'm Danish Ali Umar</h1>
 <h3 align="center">A Creative Web Developer From Pakistan | Living His Best Life In Lahore</h3>
 
@@ -45,6 +45,11 @@
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" width="30" height="30"/> | [TopCoder](https://www.topcoder.com/members/danishumar) |
 
 </div>
+
+---
+
+<img src="https://profile-images-eta.vercel.app/GitHub-profile-Banner.gif" alt="DanishAliUmar"/>
+
 ---
 
 Feel free to connect with me and explore more of my projects!
