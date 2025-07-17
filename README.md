@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Danish%20Ali%20Umar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Specialist%20%7C%203D%20Web%20Experience%20Creator&descAlignY=60&descSize=18" alt="Header" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=🔥+FULL+STACK+DEVELOPER+🔥;🌟+BUILDING+NEXT-GEN+WEB+Applications+🌟;🚀+NEXTJS+SPECIALIST+%7C+THREEJS+ARTIST+🚀;" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7BFC8A&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+FULL+STACK+DEVELOPER+%F0%9F%94%A5;%F0%9F%8C%9F+BUILDING+NEXT-GEN+WEB+Applications+%F0%9F%8C%9F;%F0%9F%9A%80+REACT+%2F+NEXT+SPECIALIST+%F0%9F%9A%80;%F0%9F%9A%80+THREEJS+ARTIST+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
