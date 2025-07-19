@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanishAliUmar&style=for-the-badge&color=7BFC8A&label=VISITORS&labelColor=000000" alt="Visitors" style="pointer-events: none;" />
-  <img src="https://img.shields.io/github/followers/DanishAliUmar?style=for-the-badge&color=7BFC8A&labelColor=000000&label=FOLLOWERS" alt="Followers" style="pointer-events: none;"/>
-  <img src="https://img.shields.io/github/stars/DanishAliUmar?style=for-the-badge&color=7BFC8A&labelColor=000000&label=STARS" alt="Stars" style="pointer-events: none;"/>
-  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20OPPORTUNITIES-7BFC8A?style=for-the-badge&labelColor=000000" alt="Availability" style="pointer-events: none;"/>
+  <img src="https://komarev.com/ghpvc/?username=DanishAliUmar&style=for-the-badge&color=7BFC8A&label=VISITORS&labelColor=000000" alt="Visitors"  />
+  <img src="https://img.shields.io/github/followers/DanishAliUmar?style=for-the-badge&color=7BFC8A&labelColor=000000&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DanishAliUmar?style=for-the-badge&color=7BFC8A&labelColor=000000&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20OPPORTUNITIES-7BFC8A?style=for-the-badge&labelColor=000000" alt="Availability" />
 </div>
 
 <br>
