@@ -224,7 +224,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanishAliUmar&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanishAliUmar&theme=github_dark&bg_color=0d1117&color=00FF88" alt="Profile Summary" />
 </div>
 
 <div align="center">
