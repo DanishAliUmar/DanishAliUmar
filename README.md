@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=DanishAliUmar&style=for-the-badge&color=00FF88&label=VISITORS&labelColor=000000" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/DanishAliUmar?style=for-the-badge&color=00FF88&labelColor=000000&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/DanishAliUmar?style=for-the-badge&color=00FF88&labelColor=000000&label=STARS" alt="Stars" />
-  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20OPPORTUNITIES-00FF88?style=for-the-badge&labelColor=000000" alt="Availability" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20FOR%20OPPORTUNITIES-7BFC8A?style=for-the-badge&labelColor=000000" alt="Availability" />
 </div>
 
 <br>
@@ -33,19 +33,19 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20Years-00FF88?style=for-the-badge&labelColor=000000" alt="Experience" />
+        <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20Years-7BFC8A?style=for-the-badge&labelColor=000000" alt="Experience" />
         <br><strong>🏆 SENIOR LEVEL</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/PROJECTS-30%2B%20Completed-00FF88?style=for-the-badge&labelColor=000000" alt="Projects" />
+        <img src="https://img.shields.io/badge/PROJECTS-30%2B%20Completed-7BFC8A?style=for-the-badge&labelColor=000000" alt="Projects" />
         <br><strong>📈 PROVEN TRACK RECORD</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/SPECIALIZATION-Full%20Stack-00FF88?style=for-the-badge&labelColor=000000" alt="Specialization" />
+        <img src="https://img.shields.io/badge/SPECIALIZATION-Full%20Stack-7BFC8A?style=for-the-badge&labelColor=000000" alt="Specialization" />
         <br><strong>⚡ TECHNICAL EXCELLENCE</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/LOCATION-Pakistan-00FF88?style=for-the-badge&labelColor=000000" alt="Location" />
+        <img src="https://img.shields.io/badge/LOCATION-Pakistan-7BFC8A?style=for-the-badge&labelColor=000000" alt="Location" />
         <br><strong>🌍 GLOBAL REACH</strong>
       </td>
     </tr>
@@ -124,35 +124,35 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🌐-E--COMMERCE%20EMPIRE-00FF88?style=for-the-badge&labelColor=000000" alt="E-Commerce" />
+        <img src="https://img.shields.io/badge/🌐-E--COMMERCE%20EMPIRE-7BFC8A?style=for-the-badge&labelColor=000000" alt="E-Commerce" />
         <br><br>
         <strong>NEXT.JS 13 • TYPESCRIPT • STRIPE</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/STATUS-LIVE-00FF88?style=flat-square&labelColor=000000" alt="Live" />
-        <img src="https://img.shields.io/badge/PERFORMANCE-98%25-00FF88?style=flat-square&labelColor=000000" alt="Performance" />
-        <img src="https://img.shields.io/badge/USERS-10K%2B-00FF88?style=flat-square&labelColor=000000" alt="Users" />
+        <img src="https://img.shields.io/badge/STATUS-LIVE-7BFC8A?style=flat-square&labelColor=000000" alt="Live" />
+        <img src="https://img.shields.io/badge/PERFORMANCE-98%25-7BFC8A?style=flat-square&labelColor=000000" alt="Performance" />
+        <img src="https://img.shields.io/badge/USERS-10K%2B-7BFC8A?style=flat-square&labelColor=000000" alt="Users" />
         <br><br>
         <i>🎯 Full-scale enterprise e-commerce solution with advanced analytics, AI recommendations, and seamless payment integration</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎨-3D%20METAVERSE%20HUB-00FF88?style=for-the-badge&labelColor=000000" alt="3D Metaverse" />
+        <img src="https://img.shields.io/badge/🎨-3D%20METAVERSE%20HUB-7BFC8A?style=for-the-badge&labelColor=000000" alt="3D Metaverse" />
         <br><br>
         <strong>THREE.JS • WEBGL • CANNON.JS</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/STATUS-LIVE-00FF88?style=flat-square&labelColor=000000" alt="Live" />
-        <img src="https://img.shields.io/badge/INNOVATION-BREAKTHROUGH-00FF88?style=flat-square&labelColor=000000" alt="Innovation" />
-        <img src="https://img.shields.io/badge/AWARDS-3-00FF88?style=flat-square&labelColor=000000" alt="Awards" />
+        <img src="https://img.shields.io/badge/STATUS-LIVE-7BFC8A?style=flat-square&labelColor=000000" alt="Live" />
+        <img src="https://img.shields.io/badge/INNOVATION-BREAKTHROUGH-7BFC8A?style=flat-square&labelColor=000000" alt="Innovation" />
+        <img src="https://img.shields.io/badge/AWARDS-3-7BFC8A?style=flat-square&labelColor=000000" alt="Awards" />
         <br><br>
         <i>🌟 Revolutionary 3D web experience with physics simulation, real-time multiplayer, and immersive storytelling</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/💻-AI%20PRODUCTIVITY%20SUITE-00FF88?style=for-the-badge&labelColor=000000" alt="AI Suite" />
+        <img src="https://img.shields.io/badge/💻-AI%20PRODUCTIVITY%20SUITE-7BFC8A?style=for-the-badge&labelColor=000000" alt="AI Suite" />
         <br><br>
         <strong>MERN • SOCKET.IO • OPENAI</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/STATUS-LIVE-00FF88?style=flat-square&labelColor=000000" alt="Live" />
-        <img src="https://img.shields.io/badge/SCALABILITY-ENTERPRISE-00FF88?style=flat-square&labelColor=000000" alt="Scalability" />
-        <img src="https://img.shields.io/badge/REVENUE-$50K%2B-00FF88?style=flat-square&labelColor=000000" alt="Revenue" />
+        <img src="https://img.shields.io/badge/STATUS-LIVE-7BFC8A?style=flat-square&labelColor=000000" alt="Live" />
+        <img src="https://img.shields.io/badge/SCALABILITY-ENTERPRISE-7BFC8A?style=flat-square&labelColor=000000" alt="Scalability" />
+        <img src="https://img.shields.io/badge/REVENUE-$50K%2B-7BFC8A?style=flat-square&labelColor=000000" alt="Revenue" />
         <br><br>
         <i>🤖 AI-powered collaboration platform with real-time analytics, smart automation, and predictive insights</i>
       </td>
@@ -189,7 +189,7 @@
         <br><strong>FUNDAMENTALS</strong>
       </td>
       <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/🏆-HACKATHON%20WINNER-00FF88?style=for-the-badge&labelColor=000000" alt="Hackathon" />
+        <img src="https://img.shields.io/badge/🏆-HACKATHON%20WINNER-7BFC8A?style=for-the-badge&labelColor=000000" alt="Hackathon" />
         <br><strong>3x CHAMPION</strong>
       </td>
     </tr>
@@ -201,19 +201,19 @@
 ## 🌐 **DIGITAL PRESENCE & NETWORK**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT%20MY%20DIGITAL%20SHOWCASE-00FF88?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT%20MY%20DIGITAL%20SHOWCASE-7BFC8A?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white" alt="Portfolio" />
   <br><br>
   <a href="https://danishumar.com" target="_blank">
-    <img src="https://img.shields.io/badge/🎯-MAIN%20WEBSITE-00FF88?style=for-the-badge&labelColor=000000" alt="Website" />
+    <img src="https://img.shields.io/badge/🎯-MAIN%20WEBSITE-7BFC8A?style=for-the-badge&labelColor=000000" alt="Website" />
   </a>
   <a href="mailto:danishaliumar4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧-BUSINESS%20EMAIL-00FF88?style=for-the-badge&labelColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/📧-BUSINESS%20EMAIL-7BFC8A?style=for-the-badge&labelColor=000000" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/danishaliumar" target="_blank">
-    <img src="https://img.shields.io/badge/💼-LINKEDIN-00FF88?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼-LINKEDIN-7BFC8A?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/danishaliumar" target="_blank">
-    <img src="https://img.shields.io/badge/🐦-TWITTER-00FF88?style=for-the-badge&labelColor=000000&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/🐦-TWITTER-7BFC8A?style=for-the-badge&labelColor=000000&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
@@ -238,30 +238,30 @@
 ## 🚀 **STRATEGIC ROADMAP 2024**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯-MISSION%202024-00FF88?style=for-the-badge&labelColor=000000" alt="Mission 2024" />
+  <img src="https://img.shields.io/badge/🎯-MISSION%202024-7BFC8A?style=for-the-badge&labelColor=000000" alt="Mission 2024" />
   <br><br>
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Q1-MASTERY-00FF88?style=for-the-badge&labelColor=000000" alt="Q1" />
+        <img src="https://img.shields.io/badge/Q1-MASTERY-7BFC8A?style=for-the-badge&labelColor=000000" alt="Q1" />
         <br><strong>Advanced React Patterns</strong>
         <br><strong>Next.js 15 Mastery</strong>
         <br><strong>Performance Optimization</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Q2-INNOVATION-00FF88?style=for-the-badge&labelColor=000000" alt="Q2" />
+        <img src="https://img.shields.io/badge/Q2-INNOVATION-7BFC8A?style=for-the-badge&labelColor=000000" alt="Q2" />
         <br><strong>AI Integration Projects</strong>
         <br><strong>WebAssembly Exploration</strong>
         <br><strong>Microservices Architecture</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Q3-LEADERSHIP-00FF88?style=for-the-badge&labelColor=000000" alt="Q3" />
+        <img src="https://img.shields.io/badge/Q3-LEADERSHIP-7BFC8A?style=for-the-badge&labelColor=000000" alt="Q3" />
         <br><strong>Open Source Contributions</strong>
         <br><strong>Technical Speaking</strong>
         <br><strong>Team Leadership</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Q4-EXCELLENCE-00FF88?style=for-the-badge&labelColor=000000" alt="Q4" />
+        <img src="https://img.shields.io/badge/Q4-EXCELLENCE-7BFC8A?style=for-the-badge&labelColor=000000" alt="Q4" />
         <br><strong>AWS Solutions Architect</strong>
         <br><strong>Enterprise Projects</strong>
         <br><strong>Mentorship Program</strong>
