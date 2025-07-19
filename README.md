@@ -162,7 +162,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 🎖️ **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
@@ -197,7 +197,7 @@
 </div>
 
 ---
-
+-->
 ## 🌐 **DIGITAL PRESENCE & NETWORK**
 
 <div align="center">
