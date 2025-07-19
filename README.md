@@ -222,11 +222,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanishAliUmar&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&area_color=00FF88&title_color=00FF88&custom_title=🔥%20ANNUAL%20CONTRIBUTION%20EXCELLENCE%20🔥" alt="Contribution Graph" />
 </div>
-
+<!-- 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanishAliUmar&theme=github_dark&bg_color=0d1117&color=00FF88" alt="Profile Summary" />
 </div>
-
+-->
 <!-- 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanishAliUmar&theme=github_dark" alt="Repos per Language" />
