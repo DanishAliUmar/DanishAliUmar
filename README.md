@@ -281,11 +281,11 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteColor=00FF88&authorColor=ffffff&borderColor=00FF88" alt="Motivational Quote" />
 </div>
-
+<!--
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=danishumar&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00FF88&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
-
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=85&descSize=16" alt="Footer" />
