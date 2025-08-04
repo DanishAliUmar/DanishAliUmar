@@ -138,7 +138,7 @@
 <p>
   
  <a href="#">
-  <img src="https://skillicons.dev/icons?i=threejs,framermotion,gsap,python,linux" alt="Specialized" />
+  <img src="https://skillicons.dev/icons?i=threejs,framermotion,gsap" alt="Specialized" />
  </a>
 </p>
 
