@@ -134,14 +134,6 @@
  </a>
 </p>
 
-### 🎪 Specialized Technologies
-<p>
-  
- <a href="#">
-  <img src="https://skillicons.dev/icons?i=threejs,framermotion,gsap" alt="Specialized" />
- </a>
-</p>
-
 </div>
 </div>
 
